@@ -37,7 +37,7 @@ img{
   height: 93vh;
   /* we can imagine a computer screen as made up of 100 slice */
   position: relative;
-  background-image: url('background.jpeg');
+  background-image: url('images/background.jpeg');
   background-size: cover;
 }
 
